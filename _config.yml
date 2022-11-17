@@ -4,7 +4,7 @@ desciption: >
 email: yourusername@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 #replace nrdybhu1.github.io with your domainname.com
-url: "https://nrdybhu1.github.io" # the base hostname & protocol for your site
+url: "https://ljs224.github.io" # the base hostname & protocol for your site
 twitter_username: x
 github_username:  ljs224
 markdown: kramdown
